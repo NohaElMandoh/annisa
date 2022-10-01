@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="68px" viewBox="0 0 58 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 10</title>
+    <defs>
+        <polygon id="path-1" points="0.0002 0.7254 57.652 0.7254 57.652 66.9994 0.0002 66.9994"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Support-our-community-Desktop" transform="translate(-691.000000, -582.000000)">
+            <g id="Group-10" transform="translate(691.000000, 582.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.274900)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M57.6522,29.5514 C57.6522,13.6304 44.7462,0.7254 28.8262,0.7254 C12.9062,0.7254 0.0002,13.6304 0.0002,29.5514 C0.0002,43.5984 10.0482,55.2964 23.3482,57.8554 L28.8262,66.9994 L34.3042,57.8554 C47.6042,55.2964 57.6522,43.5984 57.6522,29.5514" id="Fill-1" fill="#13B2F3" mask="url(#mask-2)"></path>
+                </g>
+                <polygon id="Fill-4" fill="#FFFFFF" points="28.826 14.7902 31.666 19.9402 37.443 21.0512 33.422 25.3442 34.152 31.1812 28.826 28.6832 23.5 31.1812 24.23 25.3442 20.209 21.0512 25.986 19.9402"></polygon>
+                <polygon id="Fill-6" fill="#FFFFFF" points="38.0926 29.2375 40.1586 32.9845 44.3616 33.7915 41.4356 36.9145 41.9676 41.1605 38.0926 39.3435 34.2186 41.1605 34.7496 36.9145 31.8246 33.7915 36.0266 32.9845"></polygon>
+                <polygon id="Fill-8" fill="#FFFFFF" points="19.5594 29.2375 21.6254 32.9845 25.8274 33.7915 22.9024 36.9145 23.4334 41.1605 19.5594 39.3435 15.6844 41.1605 16.2164 36.9145 13.2904 33.7915 17.4934 32.9845"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
